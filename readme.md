@@ -1,8 +1,8 @@
-# RBMS
-## Retail Bank Management System
-# RBMS
+# Bankify
+## Bankify
+# Bankify
 
-Retail Bank Management System
+Bankify
 
 - To run this code install all the dependencies into virtual environment by
   - pip install –r requirements.txt
