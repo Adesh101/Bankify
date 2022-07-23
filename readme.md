@@ -1,6 +1,4 @@
 # Bankify
-## Bankify
-# Bankify
 
 Bankify
 
